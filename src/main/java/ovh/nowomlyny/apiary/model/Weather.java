@@ -1,4 +1,10 @@
 package ovh.nowomlyny.apiary.model;
 
-public class Weather {
+public enum Weather {
+    SUNNY,
+    CLOUDY,
+    RAINY,
+    WINDY,
+    SNOWY
 }
+

@@ -1,4 +1,8 @@
 package ovh.nowomlyny.apiary.model;
 
-public class HiveCondition {
+public enum HiveCondition{
+    WEAK,
+    AVERAGE,
+    GOOD
 }
+

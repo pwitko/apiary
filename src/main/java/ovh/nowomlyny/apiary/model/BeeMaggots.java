@@ -1,4 +1,6 @@
 package ovh.nowomlyny.apiary.model;
 
-public class BeeMaggots {
+public enum BeeMaggots {
+    DENSE,
+    DROPPED
 }
